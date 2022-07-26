@@ -1,2 +1,2 @@
-# deep-neural-network-projects
-A collection of various different projects for learning and applying Deep Learning techniques.
+# artificial-intelligence-projects
+A collection of various different projects for learning and applying Machine Learning, Data Analysis, and Deep Learning techniques.
